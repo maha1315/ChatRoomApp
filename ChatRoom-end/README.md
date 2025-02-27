@@ -50,16 +50,6 @@ A real-time chatroom web application built using Java 17, Spring Boot, WebSocket
 - **Login**: Enter your desired username to join the chatroom.
 - **Chat**: Send messages to other users in real-time. You will be notified when new users join or leave the chat.
 
-## License
-
-This project is licensed under the **Goldencat Chatroom License**. You may use, modify, and distribute the software for personal, non-commercial use. Commercial use requires prior approval from the creator.
-
-For more details, see the [LICENSE](./License.md) file.
-
-## Contact
-
-For permissions related to commercial use or any questions, please contact: Code With Goldencat (codingwithgoldencat@gmail.com)
-
 ## Contributions
 
 Contributions are welcome! Feel free to open an issue or submit a pull request to improve the project.
